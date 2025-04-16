@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>Panel</title></head><body><h1>Pterodactyl Panel Active!</h1></body></html>
